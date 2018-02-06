@@ -177,8 +177,6 @@ int main()
 			T->Right = NULL;
 
 			Alphabet_DList->Add(T);
-			
-			//cout << s << "=" << (n*100) / (input.length()) << "% ";
 		}
 	}
 
