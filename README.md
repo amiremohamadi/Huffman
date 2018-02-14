@@ -1,4 +1,4 @@
 # Huffman
 Huffman code
 
-Author : Ehsan Mohammadi
+Especially thanks to ehsan mohammadi
